@@ -20,6 +20,6 @@
     <h2 dir="auto">●完了のTODOを未完了に戻す</h2>
     <img src="https://user-images.githubusercontent.com/125320189/220540715-668da8c9-6c4d-4ccf-af73-29bf02ff8116.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
     <h2 dir="auto">●未完了が5つ以上になった時のバリデーション追加</h2>
-    <img src="(https://user-images.githubusercontent.com/125320189/220545327-4dbe0dde-2464-490e-9736-d43c11194e3d.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    <img src="https://user-images.githubusercontent.com/125320189/220545756-be2bf0e4-1d93-4533-81df-02ed4f975d5d.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </body>
 </html>
