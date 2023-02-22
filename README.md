@@ -12,7 +12,7 @@
     <p>JavascriptはDOMを操作していちいち要素を書き換えていたところをReactではデータに元ずいて画面の要素をレンダリングできるのでシンプルに書くと事ができると思った。コンポーネント化する事によって見通しがよくなり、使い回しができるようになったのが便利だと思った。</p>
   <h1 dir="auto">実装機能</h1>
     <h2 dir="auto">●TODOの追加</h2>
-    <img src="https://user-images.githubusercontent.com/125320189/220540503-c625426c-9fc4-471c-a1fd-acc3d925c465.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    <img src="https://user-images.githubusercontent.com/125320189/220545185-19d45db3-4d34-4a6a-8f87-acc01d56c94e.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
     <h2 dir="auto">●未完了のTODOの削除</h2>
     <img src="https://user-images.githubusercontent.com/125320189/220540598-2d91581d-8cbf-4fcb-89fd-bdbe91809cf7.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
     <h2 dir="auto">●未完了のTODOを完了に変更</h2>
@@ -20,6 +20,6 @@
     <h2 dir="auto">●完了のTODOを未完了に戻す</h2>
     <img src="https://user-images.githubusercontent.com/125320189/220540715-668da8c9-6c4d-4ccf-af73-29bf02ff8116.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
     <h2 dir="auto">●未完了が5つ以上になった時のバリデーション追加</h2>
-    <img src="https://user-images.githubusercontent.com/125320189/220540775-10f5af01-066d-490d-a2ee-e0960f6d61ec.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    <img src="(https://user-images.githubusercontent.com/125320189/220545327-4dbe0dde-2464-490e-9736-d43c11194e3d.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </body>
 </html>
