@@ -7,9 +7,9 @@
 </head>
 <body>
   <h1 dir="auto">ポートフォリオ説明</h1>
-    <p>でJavascriptとReactの違いを体感的にわかるように、Javascriptのみでアプリケーションを作成し、それをReactで書き換えてみました。</p>
+    <p>JavaScriptとReactの違いを体感的にわかるように、JavaScriptのみでアプリケーションを作成し、それをReactで書き換えてみました。</p>
   <h1 dir="auto">感想</h1>
-    <p>JavascriptはDOMを操作していちいち要素を書き換えていたところをReactではデータに元ずいて画面の要素をレンダリングできるのでシンプルに書くと事ができると思った。コンポーネント化する事によって見通しがよくなり、使い回しができるようになったのが便利だと思った。</p>
+    <p>JavascriptはDOMを操作していちいち要素を書き換えていたところをReactではデータにもとづいて画面の要素をレンダリングできるのでシンプルに書くと事ができると思いました。コンポーネント化する事によって見通しがよくなり、使い回しができるようになったのも便利だと思いました。</p>
   <h1 dir="auto">実装機能</h1>
     <h2 dir="auto">●TODOの追加</h2>
     <img src="https://user-images.githubusercontent.com/125320189/220545185-19d45db3-4d34-4a6a-8f87-acc01d56c94e.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
