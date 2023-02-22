@@ -8,5 +8,6 @@
 </head>
 <body>
   <h1 dir="auto">ポートフォリオ説明</h1>
+    <p>でJavascriptとReactの違いを体感的にわかるように、Javascriptのみでアプリケーションを作成し、それをReactで書き換えてみました。</p>
 </body>
 </html>
