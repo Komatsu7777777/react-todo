@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1 dir="auto">ポートフォリオ説明</h1>
-    <p>仕事で発生したやるべき作業を管理するTODOアプリを作成しました。JavaScriptとReactの違いを体感的にわかるように、JavaScriptのみでアプリケーションを作成し、それをReactで書き換えてみました。</p>
+    <p>React学習の一環として、Udemy教材をもとに作成したTodoアプリです。仕事で発生したやるべき作業を管理するTODOアプリを作成しました。JavaScriptとReactの違いを体感的にわかるように、JavaScriptのみでアプリケーションを作成し、それをReactで書き換えてみました。</p>
   <h1 dir="auto">感想</h1>
     <p>JavascriptはDOMを操作していちいち要素を書き換えていたところをReactではデータにもとづいて画面の要素をレンダリングできるのでシンプルに書くと事ができると思いました。コンポーネント化する事によって見通しがよくなり、使い回しができるようになったのも便利だと思いました。</p>
   <h1 dir="auto">実装機能</h1>
@@ -23,3 +23,4 @@
     <img src="https://user-images.githubusercontent.com/125320189/220545756-be2bf0e4-1d93-4533-81df-02ed4f975d5d.gif" style="max-waidth: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </body>
 </html>
+
